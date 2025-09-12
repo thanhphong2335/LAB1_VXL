@@ -941,3 +941,288 @@
 2025-09-12 01:47:23,092 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 1539mS.
 2025-09-12 01:47:23,092 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
 2025-09-12 01:47:23,094 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-12 01:55:29,358 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 931960800 Bytes (1073741824)
+2025-09-12 01:55:30,469 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 957075696 Bytes (1073741824)
+2025-09-12 01:55:32,148 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 948967008 Bytes (1073741824)
+2025-09-12 01:55:32,314 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2025-09-12 01:55:32,314 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2025-09-12 01:55:32,314 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2025-09-12 01:55:32,314 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2025-09-12 01:55:32,314 [INFO] CodeGenerator:663 - code generatio: config db path: C:\Users\Thanh Phong\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2025-09-12 01:55:32,478 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\license.tmp_save
+2025-09-12 01:55:32,519 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\license.tmp
+2025-09-12 01:55:32,528 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\gpio.tmp_save
+2025-09-12 01:55:32,570 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\gpio.tmp
+2025-09-12 01:55:32,593 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_it.c_save
+2025-09-12 01:55:32,642 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_it.c
+2025-09-12 01:55:32,647 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_it.h_save
+2025-09-12 01:55:32,688 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_it.h
+2025-09-12 01:55:32,699 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_hal_msp.c_save
+2025-09-12 01:55:32,749 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_hal_msp.c
+2025-09-12 01:55:32,749 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\system.tmp_save
+2025-09-12 01:55:32,798 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\system.tmp
+2025-09-12 01:55:32,808 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-09-12 01:55:33,078 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_hal_conf.h
+2025-09-12 01:55:33,099 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\main.h_save
+2025-09-12 01:55:33,136 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\main.h
+2025-09-12 01:55:33,142 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\main.c_save
+2025-09-12 01:55:33,217 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\main.c
+2025-09-12 01:55:33,679 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 41mS.
+2025-09-12 01:55:33,681 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2025-09-12 01:55:34,100 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2025-09-12 01:55:35,152 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 1471mS.
+2025-09-12 01:55:35,152 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-12 01:55:35,153 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-12 02:04:35,027 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 918182624 Bytes (1073741824)
+2025-09-12 02:04:35,926 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 944860328 Bytes (1073741824)
+2025-09-12 02:04:45,894 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 961219544 Bytes (1073741824)
+2025-09-12 02:04:46,080 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2025-09-12 02:04:46,080 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2025-09-12 02:04:46,080 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2025-09-12 02:04:46,080 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2025-09-12 02:04:46,080 [INFO] CodeGenerator:663 - code generatio: config db path: C:\Users\Thanh Phong\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2025-09-12 02:04:46,231 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\license.tmp_save
+2025-09-12 02:04:46,272 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\license.tmp
+2025-09-12 02:04:46,289 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\gpio.tmp_save
+2025-09-12 02:04:46,352 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\gpio.tmp
+2025-09-12 02:04:46,377 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_it.c_save
+2025-09-12 02:04:46,420 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_it.c
+2025-09-12 02:04:46,429 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_it.h_save
+2025-09-12 02:04:46,467 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_it.h
+2025-09-12 02:04:46,477 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_hal_msp.c_save
+2025-09-12 02:04:46,533 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_hal_msp.c
+2025-09-12 02:04:46,535 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\system.tmp_save
+2025-09-12 02:04:46,565 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\system.tmp
+2025-09-12 02:04:46,575 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-09-12 02:04:46,640 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_hal_conf.h
+2025-09-12 02:04:46,660 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\main.h_save
+2025-09-12 02:04:46,716 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\main.h
+2025-09-12 02:04:46,726 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\main.c_save
+2025-09-12 02:04:47,025 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\main.c
+2025-09-12 02:04:47,463 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 35mS.
+2025-09-12 02:04:47,465 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2025-09-12 02:04:47,867 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2025-09-12 02:04:48,907 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 1442mS.
+2025-09-12 02:04:48,907 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-12 02:04:48,908 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-12 02:39:56,327 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 918198560 Bytes (1073741824)
+2025-09-12 02:39:57,232 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 942218744 Bytes (1073741824)
+2025-09-12 02:39:59,837 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 946949568 Bytes (1073741824)
+2025-09-12 02:40:00,007 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2025-09-12 02:40:00,007 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2025-09-12 02:40:00,007 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2025-09-12 02:40:00,007 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2025-09-12 02:40:00,007 [INFO] CodeGenerator:663 - code generatio: config db path: C:\Users\Thanh Phong\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2025-09-12 02:40:00,182 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\license.tmp_save
+2025-09-12 02:40:00,242 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\license.tmp
+2025-09-12 02:40:00,260 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\gpio.tmp_save
+2025-09-12 02:40:00,319 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\gpio.tmp
+2025-09-12 02:40:00,363 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_it.c_save
+2025-09-12 02:40:00,410 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_it.c
+2025-09-12 02:40:00,412 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_it.h_save
+2025-09-12 02:40:00,448 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_it.h
+2025-09-12 02:40:00,462 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_hal_msp.c_save
+2025-09-12 02:40:00,518 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_hal_msp.c
+2025-09-12 02:40:00,520 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\system.tmp_save
+2025-09-12 02:40:00,549 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\system.tmp
+2025-09-12 02:40:00,564 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-09-12 02:40:00,622 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_hal_conf.h
+2025-09-12 02:40:00,646 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\main.h_save
+2025-09-12 02:40:00,710 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\main.h
+2025-09-12 02:40:00,720 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\main.c_save
+2025-09-12 02:40:00,798 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\main.c
+2025-09-12 02:40:01,443 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 40mS.
+2025-09-12 02:40:01,445 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2025-09-12 02:40:01,907 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2025-09-12 02:40:03,064 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 1619mS.
+2025-09-12 02:40:03,065 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 1mS.
+2025-09-12 02:40:03,065 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-12 03:00:33,187 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+2025-09-12 03:00:33,188 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcu.Signal.getDiagnostic(Signal.java:804)
+2025-09-12 03:00:33,189 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcu.Mode.getDiagnostic(Mode.java:1383)
+2025-09-12 03:00:33,190 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.peripheralpanel.ComboPeriphMode.updateMode(PeriphMode.java:709)
+2025-09-12 03:00:33,190 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.peripheralpanel.PeripheralTree.updateModes(PeripheralTree.java:665)
+2025-09-12 03:00:33,192 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.peripheralpanel.PeripheralTree.updateModes(PeripheralTree.java:633)
+2025-09-12 03:00:33,192 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.peripheralpanel.PeripheralTree.updateModes(PeripheralTree.java:633)
+2025-09-12 03:00:33,192 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.peripheralpanel.PeripheralTree.updateModes(PeripheralTree.java:624)
+2025-09-12 03:00:33,192 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.pinoutconfig.guiV5.PeripheralsSelectionPanel.updatePeripheralsTree(PeripheralsSelectionPanel.java:481)
+2025-09-12 03:00:33,195 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.pinoutconfig.guiV5.PeripheralsSelectionPanel.propertyChange(PeripheralsSelectionPanel.java:585)
+2025-09-12 03:00:33,195 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:341)
+2025-09-12 03:00:33,196 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:333)
+2025-09-12 03:00:33,196 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mxsystem.MxSystem.propertyChange(MxSystem.java:446)
+2025-09-12 03:00:33,196 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:341)
+2025-09-12 03:00:33,196 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:333)
+2025-09-12 03:00:33,200 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:266)
+2025-09-12 03:00:33,201 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.util.MXPropertyChangeSupport.firePropertyChange(MXPropertyChangeSupport.java:50)
+2025-09-12 03:00:33,201 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcu.Mcu.propertyChange(Mcu.java:1660)
+2025-09-12 03:00:33,202 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:341)
+2025-09-12 03:00:33,202 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:333)
+2025-09-12 03:00:33,203 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:266)
+2025-09-12 03:00:33,204 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.util.MXPropertyChangeSupport.firePropertyChange(MXPropertyChangeSupport.java:50)
+2025-09-12 03:00:33,204 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcu.Pin.setLocked(Pin.java:830)
+2025-09-12 03:00:33,204 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.pinoutconfig.gui.PinOutPanel$4.actionPerformed(PinOutPanel.java:367)
+2025-09-12 03:00:33,205 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(AbstractButton.java:1967)
+2025-09-12 03:00:33,207 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(AbstractButton.java:2308)
+2025-09-12 03:00:33,208 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(DefaultButtonModel.java:405)
+2025-09-12 03:00:33,208 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.DefaultButtonModel.setPressed(DefaultButtonModel.java:262)
+2025-09-12 03:00:33,209 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.AbstractButton.doClick(AbstractButton.java:369)
+2025-09-12 03:00:33,209 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI.doClick(BasicMenuItemUI.java:1020)
+2025-09-12 03:00:33,210 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(BasicMenuItemUI.java:1064)
+2025-09-12 03:00:33,211 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.processMouseEvent(Component.java:6635)
+2025-09-12 03:00:33,211 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/javax.swing.JComponent.processMouseEvent(JComponent.java:3342)
+2025-09-12 03:00:33,212 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.processEvent(Component.java:6400)
+2025-09-12 03:00:33,213 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+2025-09-12 03:00:33,213 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+2025-09-12 03:00:33,214 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+2025-09-12 03:00:33,214 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+2025-09-12 03:00:33,215 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4918)
+2025-09-12 03:00:33,215 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Container.java:4547)
+2025-09-12 03:00:33,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Container.java:4488)
+2025-09-12 03:00:33,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2307)
+2025-09-12 03:00:33,216 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Window.dispatchEventImpl(Window.java:2772)
+2025-09-12 03:00:33,217 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+2025-09-12 03:00:33,226 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+2025-09-12 03:00:33,227 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+2025-09-12 03:00:33,228 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+2025-09-12 03:00:33,230 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+2025-09-12 03:00:33,231 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+2025-09-12 03:00:33,233 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+2025-09-12 03:00:33,234 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+2025-09-12 03:00:33,235 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+2025-09-12 03:00:33,236 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+2025-09-12 03:00:33,237 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+2025-09-12 03:00:33,237 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+2025-09-12 03:00:33,238 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+2025-09-12 03:00:33,239 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+2025-09-12 03:00:33,239 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+2025-09-12 03:00:33,241 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+2025-09-12 03:00:33,242 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2025-09-12 03:00:33,242 [ERROR] LogOutputStream:74 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2025-09-12 03:01:40,812 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 930774984 Bytes (1073741824)
+2025-09-12 03:01:42,054 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 951744456 Bytes (1073741824)
+2025-09-12 03:01:43,298 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 938282176 Bytes (1073741824)
+2025-09-12 03:01:43,475 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2025-09-12 03:01:43,475 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2025-09-12 03:01:43,475 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2025-09-12 03:01:43,475 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2025-09-12 03:01:43,476 [INFO] CodeGenerator:663 - code generatio: config db path: C:\Users\Thanh Phong\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2025-09-12 03:01:43,642 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\license.tmp_save
+2025-09-12 03:01:43,683 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\license.tmp
+2025-09-12 03:01:43,722 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\gpio.tmp_save
+2025-09-12 03:01:43,771 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\gpio.tmp
+2025-09-12 03:01:43,972 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_it.c_save
+2025-09-12 03:01:44,025 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_it.c
+2025-09-12 03:01:44,028 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_it.h_save
+2025-09-12 03:01:44,064 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_it.h
+2025-09-12 03:01:44,080 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_hal_msp.c_save
+2025-09-12 03:01:44,134 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_hal_msp.c
+2025-09-12 03:01:44,137 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\system.tmp_save
+2025-09-12 03:01:44,184 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\system.tmp
+2025-09-12 03:01:44,197 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-09-12 03:01:44,262 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_hal_conf.h
+2025-09-12 03:01:44,288 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\main.h_save
+2025-09-12 03:01:44,349 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\main.h
+2025-09-12 03:01:44,361 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\main.c_save
+2025-09-12 03:01:44,440 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\main.c
+2025-09-12 03:01:44,875 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 41mS.
+2025-09-12 03:01:44,876 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2025-09-12 03:01:45,296 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2025-09-12 03:01:46,354 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 1478mS.
+2025-09-12 03:01:46,354 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-12 03:01:46,356 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-12 03:08:00,197 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 943510896 Bytes (1073741824)
+2025-09-12 03:08:01,151 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 968154480 Bytes (1073741824)
+2025-09-12 03:08:02,280 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 929451928 Bytes (1073741824)
+2025-09-12 03:08:02,441 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2025-09-12 03:08:02,441 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2025-09-12 03:08:02,441 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2025-09-12 03:08:02,441 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2025-09-12 03:08:02,442 [INFO] CodeGenerator:663 - code generatio: config db path: C:\Users\Thanh Phong\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2025-09-12 03:08:02,603 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\license.tmp_save
+2025-09-12 03:08:02,660 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\license.tmp
+2025-09-12 03:08:02,678 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\gpio.tmp_save
+2025-09-12 03:08:02,729 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\gpio.tmp
+2025-09-12 03:08:02,768 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_it.c_save
+2025-09-12 03:08:02,833 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_it.c
+2025-09-12 03:08:02,836 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_it.h_save
+2025-09-12 03:08:03,041 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_it.h
+2025-09-12 03:08:03,052 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_hal_msp.c_save
+2025-09-12 03:08:03,097 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_hal_msp.c
+2025-09-12 03:08:03,097 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\system.tmp_save
+2025-09-12 03:08:03,133 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\system.tmp
+2025-09-12 03:08:03,143 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-09-12 03:08:03,201 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_hal_conf.h
+2025-09-12 03:08:03,223 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\main.h_save
+2025-09-12 03:08:03,261 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\main.h
+2025-09-12 03:08:03,267 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\main.c_save
+2025-09-12 03:08:03,341 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\main.c
+2025-09-12 03:08:03,805 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 43mS.
+2025-09-12 03:08:03,806 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2025-09-12 03:08:04,210 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2025-09-12 03:08:05,297 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 1491mS.
+2025-09-12 03:08:05,297 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-12 03:08:05,299 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-12 03:16:11,563 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 925825584 Bytes (1073741824)
+2025-09-12 03:16:12,578 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 954506696 Bytes (1073741824)
+2025-09-12 03:16:20,929 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 944421256 Bytes (1073741824)
+2025-09-12 03:16:21,092 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2025-09-12 03:16:21,092 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2025-09-12 03:16:21,092 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2025-09-12 03:16:21,092 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2025-09-12 03:16:21,092 [INFO] CodeGenerator:663 - code generatio: config db path: C:\Users\Thanh Phong\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2025-09-12 03:16:21,242 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\license.tmp_save
+2025-09-12 03:16:21,311 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\license.tmp
+2025-09-12 03:16:21,322 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\gpio.tmp_save
+2025-09-12 03:16:21,369 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\gpio.tmp
+2025-09-12 03:16:21,392 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_it.c_save
+2025-09-12 03:16:21,453 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_it.c
+2025-09-12 03:16:21,456 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_it.h_save
+2025-09-12 03:16:21,493 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_it.h
+2025-09-12 03:16:21,503 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_hal_msp.c_save
+2025-09-12 03:16:21,552 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_hal_msp.c
+2025-09-12 03:16:21,554 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\system.tmp_save
+2025-09-12 03:16:21,589 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\system.tmp
+2025-09-12 03:16:21,599 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-09-12 03:16:21,654 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_hal_conf.h
+2025-09-12 03:16:21,675 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\main.h_save
+2025-09-12 03:16:21,727 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\main.h
+2025-09-12 03:16:21,738 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\main.c_save
+2025-09-12 03:16:21,822 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\main.c
+2025-09-12 03:16:22,445 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 46mS.
+2025-09-12 03:16:22,447 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2025-09-12 03:16:22,693 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2025-09-12 03:16:23,936 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 1489mS.
+2025-09-12 03:16:23,937 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-12 03:16:23,938 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-12 03:45:03,079 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 934915992 Bytes (1073741824)
+2025-09-12 03:45:03,916 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 960083864 Bytes (1073741824)
+2025-09-12 03:45:05,343 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 948984312 Bytes (1073741824)
+2025-09-12 03:45:05,525 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: NVIC
+2025-09-12 03:45:05,525 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: SYS
+2025-09-12 03:45:05,525 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: GPIO
+2025-09-12 03:45:05,525 [INFO] BlockDiagram:2740 - set Specific Code input for plugin: RCC
+2025-09-12 03:45:05,526 [INFO] CodeGenerator:663 - code generatio: config db path: C:\Users\Thanh Phong\STM32CubeIDE_1.7.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.3.0.202107141111\\db\
+2025-09-12 03:45:05,721 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\license.tmp_save
+2025-09-12 03:45:05,764 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\license.tmp
+2025-09-12 03:45:05,789 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\gpio.tmp_save
+2025-09-12 03:45:05,842 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\gpio.tmp
+2025-09-12 03:45:05,879 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_it.c_save
+2025-09-12 03:45:05,931 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_it.c
+2025-09-12 03:45:05,947 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_it.h_save
+2025-09-12 03:45:05,992 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_it.h
+2025-09-12 03:45:06,011 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_hal_msp.c_save
+2025-09-12 03:45:06,244 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\stm32f1xx_hal_msp.c
+2025-09-12 03:45:06,247 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\system.tmp_save
+2025-09-12 03:45:06,289 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\MXTmpFiles\system.tmp
+2025-09-12 03:45:06,311 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-09-12 03:45:06,380 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\stm32f1xx_hal_conf.h
+2025-09-12 03:45:06,415 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\main.h_save
+2025-09-12 03:45:06,470 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Inc\main.h
+2025-09-12 03:45:06,487 [INFO] CodeEngine:239 - oldGeneratedFile, D:\GIT_LAB1_VXL\lab1_ex\Core\Src\main.c_save
+2025-09-12 03:45:06,555 [INFO] CodeEngine:257 - Generated code: D:\GIT_LAB1_VXL\lab1_ex\Core\Src\main.c
+2025-09-12 03:45:07,017 [INFO] ProjectBuilder:2578 - Time for Copy HAL[1] : 42mS.
+2025-09-12 03:45:07,019 [INFO] ProjectBuilder:3622 - Project Generator version: 3.14.1
+2025-09-12 03:45:07,469 [INFO] ConfigFileManager:1271 - The Die is : DIE412
+2025-09-12 03:45:08,517 [INFO] ProjectBuilder:3789 - Time for Generating toolchain IDE Files: 1498mS.
+2025-09-12 03:45:08,518 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
+2025-09-12 03:45:08,518 [INFO] ProjectBuilder:2457 - Time for Copy CMSIS : 0mS.
