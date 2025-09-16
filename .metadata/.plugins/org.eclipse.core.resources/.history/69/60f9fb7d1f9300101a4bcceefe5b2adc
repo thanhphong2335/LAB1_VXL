@@ -202,7 +202,7 @@ int main(void)
 		  	  HAL_GPIO_WritePin(LED_RED3_GPIO_Port,LED_RED3_Pin,GPIO_PIN_RESET);
 		  	  HAL_GPIO_WritePin(LED_GREEN2_GPIO_Port,LED_GREEN2_Pin,GPIO_PIN_RESET);
 			  HAL_GPIO_WritePin(LED_GREEN4_GPIO_Port,LED_GREEN4_Pin,GPIO_PIN_RESET);
-		  	  for(int count = 5;count>=1;count--){
+		  	  for(int count = 4;count>=0;count--){
 				  display7SEG(count);
 				  if(count==2){
 					  HAL_GPIO_WritePin(LED_GREEN2_GPIO_Port,LED_GREEN2_Pin,GPIO_PIN_SET);
@@ -223,7 +223,7 @@ int main(void)
 
 		  	  HAL_GPIO_WritePin(LED_GREEN1_GPIO_Port,LED_GREEN1_Pin,GPIO_PIN_RESET);
 		  	  HAL_GPIO_WritePin(LED_GREEN3_GPIO_Port,LED_GREEN3_Pin,GPIO_PIN_RESET);
-		  	  for(int count = 3;count>=1;count--){
+		  	  for(int count = 2;count>=0;count--){
 				  display7SEG(count);
 				  HAL_Delay(1000);
 		  	  }
@@ -233,7 +233,7 @@ int main(void)
 		  	  HAL_GPIO_WritePin(LED_YELLOW1_GPIO_Port,LED_YELLOW1_Pin,GPIO_PIN_RESET);
 		  	  HAL_GPIO_WritePin(LED_GREEN3_GPIO_Port,LED_GREEN3_Pin,GPIO_PIN_SET);
 		  	  HAL_GPIO_WritePin(LED_YELLOW3_GPIO_Port,LED_YELLOW3_Pin,GPIO_PIN_RESET);
-		  	  for(int count=2;count>=1;count--){
+		  	  for(int count=1;count>=0;count--){
 				  display7SEG(count);
 				  HAL_Delay(1000);
 		  	  }
