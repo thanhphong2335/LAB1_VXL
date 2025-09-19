@@ -134,30 +134,31 @@ int main(void)
  8000184:	2120      	movs	r1, #32
  8000186:	4810      	ldr	r0, [pc, #64]	; (80001c8 <main+0x7c>)
  8000188:	f000 fbfe 	bl	8000988 <HAL_GPIO_WritePin>
-	  HAL_GPIO_WritePin(LED_YELLOW_GPIO_Port,LED_YELLOW_Pin,GPIO_PIN_RESET);
+
+	  HAL_GPIO_WritePin(LED_GREEN_GPIO_Port,LED_GREEN_Pin,GPIO_PIN_RESET);
  800018c:	2200      	movs	r2, #0
- 800018e:	2140      	movs	r1, #64	; 0x40
+ 800018e:	2180      	movs	r1, #128	; 0x80
  8000190:	480d      	ldr	r0, [pc, #52]	; (80001c8 <main+0x7c>)
  8000192:	f000 fbf9 	bl	8000988 <HAL_GPIO_WritePin>
-	  HAL_Delay(2000);
- 8000196:	f44f 60fa 	mov.w	r0, #2000	; 0x7d0
+	  HAL_Delay(3000);
+ 8000196:	f640 30b8 	movw	r0, #3000	; 0xbb8
  800019a:	f000 f973 	bl	8000484 <HAL_Delay>
-	  HAL_GPIO_WritePin(LED_YELLOW_GPIO_Port,LED_YELLOW_Pin,GPIO_PIN_SET);
- 800019e:	2201      	movs	r2, #1
+	  HAL_GPIO_WritePin(LED_YELLOW_GPIO_Port,LED_YELLOW_Pin,GPIO_PIN_RESET);
+ 800019e:	2200      	movs	r2, #0
  80001a0:	2140      	movs	r1, #64	; 0x40
  80001a2:	4809      	ldr	r0, [pc, #36]	; (80001c8 <main+0x7c>)
  80001a4:	f000 fbf0 	bl	8000988 <HAL_GPIO_WritePin>
-	  HAL_GPIO_WritePin(LED_GREEN_GPIO_Port,LED_GREEN_Pin,GPIO_PIN_RESET);
- 80001a8:	2200      	movs	r2, #0
+	  HAL_GPIO_WritePin(LED_GREEN_GPIO_Port,LED_GREEN_Pin,GPIO_PIN_SET);
+ 80001a8:	2201      	movs	r2, #1
  80001aa:	2180      	movs	r1, #128	; 0x80
  80001ac:	4806      	ldr	r0, [pc, #24]	; (80001c8 <main+0x7c>)
  80001ae:	f000 fbeb 	bl	8000988 <HAL_GPIO_WritePin>
-	  HAL_Delay(3000);
- 80001b2:	f640 30b8 	movw	r0, #3000	; 0xbb8
+	  HAL_Delay(2000);
+ 80001b2:	f44f 60fa 	mov.w	r0, #2000	; 0x7d0
  80001b6:	f000 f965 	bl	8000484 <HAL_Delay>
-	  HAL_GPIO_WritePin(LED_GREEN_GPIO_Port,LED_GREEN_Pin,GPIO_PIN_SET);
+	  HAL_GPIO_WritePin(LED_YELLOW_GPIO_Port,LED_YELLOW_Pin,GPIO_PIN_SET);
  80001ba:	2201      	movs	r2, #1
- 80001bc:	2180      	movs	r1, #128	; 0x80
+ 80001bc:	2140      	movs	r1, #64	; 0x40
  80001be:	4802      	ldr	r0, [pc, #8]	; (80001c8 <main+0x7c>)
  80001c0:	f000 fbe2 	bl	8000988 <HAL_GPIO_WritePin>
 	  HAL_GPIO_WritePin(LED_RED_GPIO_Port,LED_RED_Pin,GPIO_PIN_RESET);
