@@ -131,7 +131,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-	  for (int i = 0; i < 12; i++) {
+	  for (int i = 0; i < 12; i++){
  8000188:	2300      	movs	r3, #0
  800018a:	64fb      	str	r3, [r7, #76]	; 0x4c
  800018c:	e02a      	b.n	80001e4 <main+0x98>
@@ -166,7 +166,7 @@ int main(void)
  80001d6:	2201      	movs	r2, #1
  80001d8:	4619      	mov	r1, r3
  80001da:	f000 fbeb 	bl	80009b4 <HAL_GPIO_WritePin>
-	  for (int i = 0; i < 12; i++) {
+	  for (int i = 0; i < 12; i++){
  80001de:	6cfb      	ldr	r3, [r7, #76]	; 0x4c
  80001e0:	3301      	adds	r3, #1
  80001e2:	64fb      	str	r3, [r7, #76]	; 0x4c
