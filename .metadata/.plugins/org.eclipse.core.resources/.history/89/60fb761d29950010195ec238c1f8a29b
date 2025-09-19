@@ -104,7 +104,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   int counttime = 2;
   int countminute = 59;
-  int countsecond = 50;
+  int countsecond = 40;
 
   while (1) {
 
@@ -117,7 +117,7 @@ int main(void)
       setNumberOnClock(indexminute);
       setNumberOnClock(indexsecond);
 
-      HAL_Delay(25);
+      HAL_Delay(1000);
 
 
       clearNumberOnClock((countsecond / 5) % 12);
@@ -134,7 +134,7 @@ int main(void)
       if (countminute >= 60) {
           countminute = 0;
           counttime++;
-          clearNumberOnClock(counttime % 12-1);
+          clearNumberOnClock(counttime % 12);
           if (counttime >= 12) {
               counttime = 0;
           }

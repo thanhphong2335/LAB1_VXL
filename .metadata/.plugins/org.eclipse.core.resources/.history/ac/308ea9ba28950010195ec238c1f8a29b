@@ -104,37 +104,37 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   int counttime = 2;
   int countminute = 59;
-  int countsecond = 50;
+  int countsecond = 40;
 
   while (1) {
+      // Tính chỉ số giây, phút, giờ
+      int indexsecond = (countsecond / 5) % 12;  // Chỉ số giây (tính theo từng 5 giây)
+      int indexminute = (countminute / 5) % 12;  // Chỉ số phút (tính theo từng 5 phút)
+      int indexhour = counttime % 12;             // Chỉ số giờ
 
-      int indexsecond = (countsecond / 5) % 12;
-      int indexminute = (countminute / 5) % 12;
-      int indexhour = counttime % 12;
-
-
+      // Hiển thị giờ, phút, giây
       setNumberOnClock(indexhour);
       setNumberOnClock(indexminute);
       setNumberOnClock(indexsecond);
 
-      HAL_Delay(25);
+      HAL_Delay(25);  // Chờ 25ms
 
-
+      // Tắt đèn giây cũ trước khi tăng countsecond
       clearNumberOnClock((countsecond / 5) % 12);
       countsecond++;
 
-
+      // Kiểm tra nếu giây vượt quá 60, reset lại giây và tăng phút
       if (countsecond >= 60) {
           countsecond = 0;
           countminute++;
-          clearNumberOnClock((countminute / 5) % 12);
+          clearNumberOnClock((countminute / 5) % 12);  // Tắt đèn phút cũ
       }
 
-
+      // Kiểm tra nếu phút vượt quá 60, reset lại phút và tăng giờ
       if (countminute >= 60) {
           countminute = 0;
           counttime++;
-          clearNumberOnClock(counttime % 12-1);
+          clearNumberOnClock(counttime % 12);  // Tắt đèn giờ cũ
           if (counttime >= 12) {
               counttime = 0;
           }

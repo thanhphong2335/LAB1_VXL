@@ -102,44 +102,32 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  int counttime = 2;
-  int countminute = 59;
-  int countsecond = 50;
-
-  while (1) {
-
-      int indexsecond = (countsecond / 5) % 12;
-      int indexminute = (countminute / 5) % 12;
-      int indexhour = counttime % 12;
-
-
-      setNumberOnClock(indexhour);
-      setNumberOnClock(indexminute);
-      setNumberOnClock(indexsecond);
-
-      HAL_Delay(25);
-
-
-      clearNumberOnClock((countsecond / 5) % 12);
-      countsecond++;
-
-
-      if (countsecond >= 60) {
-          countsecond = 0;
-          countminute++;
-          clearNumberOnClock((countminute / 5) % 12);
-      }
-
-
-      if (countminute >= 60) {
-          countminute = 0;
-          counttime++;
-          clearNumberOnClock(counttime % 12-1);
-          if (counttime >= 12) {
-              counttime = 0;
-          }
-      }
-
+  int counttime=2;
+  int countminute=59;
+  int countsecond=40;
+  while (1)
+  {
+	  int indexsecond=countsecond/5;
+	  int indexminute=countminute/5;
+	  setNumberOnClock(counttime);
+	  setNumberOnClock(indexminute);
+	  setNumberOnClock(indexsecond);
+	  HAL_Delay(25);
+	  countsecond++;
+	  clearNumberOnClock(indexsecond);
+	  if(countsecond>=60){
+		  countsecond=0;
+		  countminute++;
+		  clearNumberOnClock(indexminute-1);
+		  if(countminute>=60){
+			  countminute=0;
+			  counttime++;
+			  clearNumberOnClock(counttime-1);
+			  if(counttime>=12){
+				  counttime=0;
+			  }
+		  }
+	  }
 
 
     /* USER CODE END WHILE */
