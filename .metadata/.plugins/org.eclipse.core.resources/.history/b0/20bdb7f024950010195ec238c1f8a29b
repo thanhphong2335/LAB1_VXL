@@ -104,11 +104,11 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   int counttime=2;
   int countminute=59;
-  int countsecond=40;
+  int countsecond=56;
   while (1)
   {
 	  int indexsecond=countsecond/5;
-	  int indexminute=countminute/5;
+	  int indexminute=countminute%/5;
 	  setNumberOnClock(counttime);
 	  setNumberOnClock(indexminute);
 	  setNumberOnClock(indexsecond);
