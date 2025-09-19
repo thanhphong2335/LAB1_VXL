@@ -238,8 +238,8 @@ int main(void)
  800023c:	68b8      	ldr	r0, [r7, #8]
  800023e:	f7ff ff85 	bl	800014c <setNumberOnClock>
 
-      HAL_Delay(25);
- 8000242:	2019      	movs	r0, #25
+      HAL_Delay(4);
+ 8000242:	2004      	movs	r0, #4
  8000244:	f000 f9b6 	bl	80005b4 <HAL_Delay>
 
 
